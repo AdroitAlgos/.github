@@ -1,9 +1,5 @@
 <div align="center">
-
-# MadhyaSigma
-
-**Systematic trading, built in-house.**
-
+  <img src="./logo.png" alt="MadhyaSigma" width="480">
 </div>
 
 ---
