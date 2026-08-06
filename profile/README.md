@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="./logo.png" alt="MadhyaSigma" width="480">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./logo.png">
+    <source media="(prefers-color-scheme: light)" srcset="./logo_light.png">
+    <img alt="MadhyaSigma" src="./logo.png" width="480">
+  </picture>
 </div>
 
 ---
