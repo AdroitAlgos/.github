@@ -42,6 +42,7 @@ The platform is built to run every stage of that process — developing a strate
 - `trading-strategies` — the strategies themselves
 - `trading-paper-broker` — the paper-trading simulator
 - `trading-ui` — the internal dashboard for monitoring, execution, and risk
+- `trading-backtest` — backtesting and indicator computation service
 
 Repos are private — this is infrastructure we trade real money on, not open-source tooling.
 
