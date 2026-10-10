@@ -32,6 +32,7 @@ The platform is built to run every stage of that process — developing a strate
 **Operations & access**
 - A paper-trading environment that mirrors live execution exactly, so strategies get proven out before they touch real capital
 - Multi-user access with role-based permission levels — portfolio manager, trader, investor — built for running a quant operation solo or as a team
+- A native iOS companion app for monitoring strategies, orders, and broker accounts on the go *(personal-device build, not yet on the App Store)*
 
 ## How it's built
 
@@ -43,6 +44,7 @@ The platform is built to run every stage of that process — developing a strate
 - `trading-paper-broker` — the paper-trading simulator
 - `trading-ui` — the internal dashboard for monitoring, execution, and risk
 - `trading-backtest` — backtesting and indicator computation service
+- `trading-mobile` — native iOS companion app
 
 Repos are private — this is infrastructure we trade real money on, not open-source tooling.
 
