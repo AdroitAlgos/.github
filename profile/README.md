@@ -26,6 +26,7 @@ The platform is built to run every stage of that process — developing a strate
 
 **Strategy lifecycle**
 - Web-based code editor for building strategies directly on the platform
+- An intraday simulator built into the code editor: replay any of the last 20 trading days' recorded tick data through a strategy on a virtual clock, with orders filled against the replay rather than sent to a broker — a full session runs in seconds and returns orders, closed trades, a P&L curve, and drawdown
 - A no-code strategy builder, with the ability to define custom indicator math and apply it to any asset *(in development)*
 - Live per-strategy logs and a control panel for monitoring, managing, and reporting on everything that's running
 
